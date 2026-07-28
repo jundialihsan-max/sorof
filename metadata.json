@@ -1,0 +1,6 @@
+{
+  "name": "Shorof SMP IT Umar bin Al Khattab Cirebon",
+  "description": "Aplikasi Pembelajaran Shorof Berjenjang Kelas 7-9 SMP IT Umar bin Al Khattab Cirebon oleh Jundi Abdul Syahid, S.Pd. Dilengkapi 36 Materi, Tashrif Fi'il, 500 Kata Kerja & 500 Kata Benda, Latihan Essay, dan CRUD Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
